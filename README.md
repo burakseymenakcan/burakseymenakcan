@@ -1,5 +1,6 @@
-
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/656/150/342/berserk-kentaro-miura-guts-manga-wallpaper-preview.jpg)
+<div align="center">
+  <img src=https://c4.wallpaperflare.com/wallpaper/656/150/342/berserk-kentaro-miura-guts-manga-wallpaper-preview.jpg>
+</div>
 <h1 align="center">Hi 👋, I'm Burak Seymen Akcan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
